@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "Buch nicht gefunden",
+  "bookDeletedSuccessfully": "Buch erfolgreich gelöscht",
+  "bookUpdatedSuccessfully": "Buch erfolgreich aktualisiert",
+  "bookNameRequired": "Buchtitel ist erforderlich.",
+  "bookNameLengthValidation": "Der Buchtitel muss zwischen 5 und 100 Zeichen lang sein.",
+  "priceRequired": "Preis ist erforderlich.",
+  "priceRangeValidation": "Der Preis muss zwischen 1 und 1000$ liegen.",
+  "stockRequired": "Bestandsanzahl ist erforderlich.",
+  "stockRangeValidation": "Die Bestandsanzahl muss zwischen 1 und 255 liegen.",
+  "imageRequired": "Bild-URL ist erforderlich.",
+  "imageInvalidUrl": "Das Bild muss eine gültige URL sein.",
+  "bookIDValidation": "Die Buch-ID muss eine gültige MongoDB ObjectId sein."
+}

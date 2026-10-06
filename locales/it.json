@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "Libro non trovato",
+  "bookDeletedSuccessfully": "Libro eliminato con successo",
+  "bookUpdatedSuccessfully": "Libro aggiornato con successo",
+  "bookNameRequired": "Il nome del libro è obbligatorio.",
+  "bookNameLengthValidation": "Il nome del libro deve essere tra 5 e 100 caratteri.",
+  "priceRequired": "Il prezzo è obbligatorio.",
+  "priceRangeValidation": "Il prezzo deve essere compreso tra 1 e 1000$.",
+  "stockRequired": "La quantità in stock è obbligatoria.",
+  "stockRangeValidation": "La quantità in stock deve essere tra 1 e 255.",
+  "imageRequired": "L'URL dell'immagine è obbligatorio.",
+  "imageInvalidUrl": "L'immagine deve essere un URL valido.",
+  "bookIDValidation": "L'ID del libro deve essere un ObjectId valido di MongoDB."
+}
